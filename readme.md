@@ -1,4 +1,4 @@
-# Databricks PySpark Assignment 02 — E-Commerce Lakehouse
+# Databricks PySpark — E-Commerce Lakehouse
 
 An end-to-end e-commerce analytics Lakehouse built with **Databricks, PySpark, Delta Lake, and the Medallion architecture**. The project processes clickstream, order, customer, and foreign-exchange data through Bronze, Silver, and Gold layers to support near-real-time reporting, data quality monitoring, and auditable historical analysis.
 
