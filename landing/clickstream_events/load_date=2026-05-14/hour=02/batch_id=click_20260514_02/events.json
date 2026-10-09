@@ -1,0 +1,44 @@
+{"attributes": {"campaign": "email", "sku": "sku_00941"}, "device": "web|safari", "event_id": "evt_0000007207", "event_time": "2026-05-06T20:28:05-05:00", "event_type": "view", "ingest_time": "2026-05-14T02:36:05Z", "page": "/product/sku_00941", "session_id": "sess_0000004953", "user_id": null}
+{"attributes": {"campaign": "email", "sku": "sku_00713"}, "device": "android|samsung_s24", "event_id": "evt_0000108076", "event_time": "2026-05-07T08:27:40+09:00", "event_type": "add_to_cart", "ingest_time": "2026-05-14T02:23:40Z", "page": "/cart", "session_id": "sess_0000073724", "user_id": "user_006074"}
+{"attributes": {"campaign": "email", "sku": "sku_00633"}, "device": "ios|iphone_15", "event_id": "evt_0000162764", "event_time": "2026-05-07T07:23:43+07:00", "event_type": "add_to_cart", "ingest_time": "2026-05-14T02:52:43Z", "page": "/cart", "session_id": "sess_0000110965", "user_id": "user_013161"}
+{"attributes": {"campaign": "summer", "payment_method": "cod", "sku": "sku_00015"}, "device": "web|chrome", "event_id": "evt_0000164382", "event_time": "2026-05-07T01:17:28+00:00", "event_type": "purchase", "ingest_time": "2026-05-14T02:38:28Z", "page": "/checkout/confirmation", "session_id": "sess_0000112085", "user_id": "user_013014"}
+{"attributes": {"campaign": "summer", "sku": "sku_00351"}, "device": "ios|iphone_15", "event_id": "evt_0000171082", "event_time": "2026-05-06T21:29:53-05:00", "event_type": "view", "ingest_time": "2026-05-14T02:38:53Z", "page": "/product/sku_00351", "session_id": "sess_0000116612", "user_id": "user_008664"}
+{"attributes": {"campaign": "summer", "sku": "sku_00034"}, "device": "web|safari", "event_id": "evt_0000266581", "event_time": "2026-05-07T00:54:33+00:00", "event_type": "view", "ingest_time": "2026-05-14T02:41:33Z", "page": "/product/sku_00034", "session_id": "sess_0000181663", "user_id": "user_019493"}
+{"attributes": {"campaign": "summer", "sku": "sku_00722"}, "device": "ios|iphone_15", "event_id": "evt_0000293239", "event_time": "2026-05-07T07:37:01+07:00", "event_type": "view", "ingest_time": "2026-05-14T02:34:01Z", "page": "/product/sku_00722", "session_id": "sess_0000199923", "user_id": "user_011111"}
+{"attributes": {"campaign": "organic", "sku": "sku_00822"}, "device": "web|chrome", "event_id": "evt_0000325951", "event_time": "2026-05-07T00:59:12+00:00", "event_type": "view", "ingest_time": "2026-05-14T02:44:12Z", "page": "/product/sku_00822", "session_id": "sess_0000222236", "user_id": "user_016215"}
+{"attributes": {"campaign": "retargeting", "sku": "sku_00284"}, "device": "web|chrome", "event_id": "evt_0000341654", "event_time": "2026-05-07T00:37:20+00:00", "event_type": "view", "ingest_time": "2026-05-14T02:05:20Z", "page": "/product/sku_00284", "session_id": "sess_0000233014", "user_id": "user_013903"}
+{"attributes": {"campaign": "summer", "payment_method": "cod", "sku": "sku_00822"}, "device": "android|samsung_s24", "event_id": "evt_0000344495", "event_time": "2026-05-06T19:51:22-05:00", "event_type": "purchase", "ingest_time": "2026-05-14T02:18:22Z", "page": "/checkout/confirmation", "session_id": "sess_0000234971", "user_id": null}
+{"attributes": {"campaign": "retargeting", "sku": "sku_00205"}, "device": {"model": "iphone_15", "os": "ios"}, "event_id": "evt_0000347756", "event_time": "2026-05-07T02:39:00+01:00", "event_type": "view", "ingest_time": "2026-05-14T02:38:00Z", "page": "/product/sku_00205", "session_id": "sess_0000237186", "user_id": null}
+{"attributes": {"campaign": "summer", "sku": "sku_00267"}, "device": "web|safari", "event_id": "evt_0000387110", "event_time": "2026-05-06T21:32:17-05:00", "event_type": "view", "ingest_time": "2026-05-14T02:38:17Z", "page": "/product/sku_00267", "session_id": "sess_0000264106", "user_id": "user_019613"}
+{"attributes": {"campaign": "summer", "sku": "sku_00829"}, "device": "web|safari", "event_id": "evt_0000412735", "event_time": "2026-05-07T08:40:50+09:00", "event_type": "view", "ingest_time": "2026-05-14T02:21:50Z", "page": "/product/sku_00829", "session_id": "sess_0000281630", "user_id": null}
+{"event_id": "evt_parse_000219", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_000412", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_000518", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_000793", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_001067", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_001129", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_001726", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_001734", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_001824", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_002133", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_002199", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_002569", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_003460", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_003464", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_003580", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_003943", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_004477", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_004546", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_004850", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_005034", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_005044", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_005832", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_006190", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_006684", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_006859", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_007100", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_007136", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_007345", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_007382", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_007444", "event_time": "2026-05-01T00:00:00Z", "device": 
+{"event_id": "evt_parse_007896", "event_time": "2026-05-01T00:00:00Z", "device": 

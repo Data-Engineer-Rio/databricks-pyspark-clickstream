@@ -1,0 +1,44 @@
+# Python virtual environments
+myenv/
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode, caches, and test/tool outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Databricks local state and IDE/editor files
+.databricks/
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Generated local artifacts and logs
+*.log
+build/
+dist/
+*.egg-info/

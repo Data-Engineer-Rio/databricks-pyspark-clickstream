@@ -1,0 +1,3 @@
+user_id,email,phone,country,created_at,updated_at
+user_012171,user_012171@example.com,(666)919-3857,US,2026-03-13T07:52:27Z,2026-05-02T09:14:48Z
+user_003503,user_003503@example.com,440-310-9188x0689,US,2026-03-24T13:25:14Z,2026-04-29T10:07:52Z
